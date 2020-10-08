@@ -1,1 +1,1 @@
-non-parametric and parametric L-systems implementation 
+Non-parametric and parametric L-systems implementation 
