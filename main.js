@@ -4,7 +4,7 @@ let scene = new THREE.Scene();
 // renderer
 const renderer = new THREE.WebGLRenderer({ antialias: true });
 renderer.setSize(window.innerWidth, window.innerHeight);
-renderer.setClearColor("rgb(125,110,90)");
+//renderer.setClearColor("rgb(125,110,90)");
 renderer.setPixelRatio(devicePixelRatio);
 document.body.appendChild(renderer.domElement);
 
